@@ -1,445 +1,396 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by John Doe]]></title><description><![CDATA[Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.]]></description><link>https://lumen.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 05 Sep 2021 14:21:01 GMT</lastBuildDate><item><title><![CDATA[Humane Typography in the Digital Age]]></title><description><![CDATA[An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.]]></description><link>https://lumen.netlify.com/posts/humane-typography-in-the-digital-age</link><guid isPermaLink="false">https://lumen.netlify.com/posts/humane-typography-in-the-digital-age</guid><pubDate>Sat, 19 Aug 2017 22:40:32 GMT</pubDate><content:encoded>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#the-first-transition&quot;&gt;The first transition&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#the-digital-age&quot;&gt;The digital age&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#loss-of-humanity-through-transitions&quot;&gt;Loss of humanity through transitions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#chasing-perfection&quot;&gt;Chasing perfection&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.&lt;/p&gt;
-&lt;p&gt;The typography of this industrial age was no longer handcrafted. Mass production and profit became more important. Quantity mattered more than the quality. The books and printed works in general lost a part of its humanity. The typefaces were not produced by craftsmen anymore. It was the machines printing and tying the books together now. The craftsmen had to let go of their craft and became a cog in the process. An extension of the industrial machine.&lt;/p&gt;
-&lt;p&gt;But the victory of the industrialism didn’t mean that the craftsmen were completely extinct. The two worlds continued to coexist independently. Each recognising the good in the other — the power of industrialism and the humanity of craftsmanship. This was the second transition that would strip typography of a part of its humanity. We have to go 500 years back in time to meet the first one.&lt;/p&gt;
-&lt;h2 id=&quot;the-first-transition&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#the-first-transition&quot; aria-label=&quot;the first transition permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;The first transition&lt;/h2&gt;
-&lt;p&gt;A similar conflict emerged after the invention of the first printing press in Europe. Johannes Gutenberg invented movable type and used it to produce different compositions. His workshop could print up to 240 impressions per hour. Until then, the books were being copied by hand. All the books were handwritten and decorated with hand drawn ornaments and figures. A process of copying a book was long but each book, even a copy, was a work of art.&lt;/p&gt;
-&lt;p&gt;The first printed books were, at first, perceived as inferior to the handwritten ones. They were smaller and cheaper to produce. Movable type provided the printers with flexibility that allowed them to print books in languages other than Latin. Gill describes the transition to industrialism as something that people needed and wanted. Something similar happened after the first printed books emerged. People wanted books in a language they understood and they wanted books they could take with them. They were hungry for knowledge and printed books satisfied this hunger.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/4b190/42-line-bible.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 68.75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQP/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAABufUKs5i//8QAGhAAAgIDAAAAAAAAAAAAAAAAAAIBEhARMf/aAAgBAQABBQLhdiLY2otmj//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAABEUECEHH/2gAIAQEABj8CWqFJZKzhcP/EABoQAAICAwAAAAAAAAAAAAAAAAABESExQVH/2gAIAQEAAT8htIzvAkKJdIZ1iOrKhtOD58i2UYQ//9oADAMBAAIAAwAAABCPz//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/EGf/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPxAn/8QAGxABAAIDAQEAAAAAAAAAAAAAAQARITFRQYH/2gAIAQEAAT8QURjCRbioVC2xo2WyVaV7jtwCCrbaU0oxx2BWbCVKxv5P/9k=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-          &lt;source
-              srcset=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/8ac56/42-line-bible.webp 240w,
-/static/6d93cbc4956a854d4c4369f0e281e7f3/d3be9/42-line-bible.webp 480w,
-/static/6d93cbc4956a854d4c4369f0e281e7f3/d00b9/42-line-bible.webp 800w&quot;
-              sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-              type=&quot;image/webp&quot;
-            /&gt;
-          &lt;source
-            srcset=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/09b79/42-line-bible.jpg 240w,
-/static/6d93cbc4956a854d4c4369f0e281e7f3/7cc5e/42-line-bible.jpg 480w,
-/static/6d93cbc4956a854d4c4369f0e281e7f3/4b190/42-line-bible.jpg 800w&quot;
-            sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-            type=&quot;image/jpeg&quot;
-          /&gt;
-          &lt;img
-            class=&quot;gatsby-resp-image-image&quot;
-            src=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/4b190/42-line-bible.jpg&quot;
-            alt=&quot;42-line-bible.jpg&quot;
-            title=&quot;42-line-bible.jpg&quot;
-            loading=&quot;lazy&quot;
-            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-          /&gt;
-        &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;The 42–Line Bible, printed by Gutenberg.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;But, through this transition, the book lost a large part of its humanity. The machine took over most of the process but craftsmanship was still a part of it. The typefaces were cut manually by the first punch cutters. The paper was made by hand. The illustrations and ornaments were still being hand drawn. These were the remains of the craftsmanship that went almost extinct in the times of Eric Gill.&lt;/p&gt;
-&lt;h2 id=&quot;the-digital-age&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#the-digital-age&quot; aria-label=&quot;the digital age permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;The digital age&lt;/h2&gt;
-&lt;p&gt;The first transition took away a large part of humanity from written communication. Industrialisation, the second transition described by Eric Gill, took away most of what was left. But it’s the third transition that stripped it naked. Typefaces are faceless these days. They’re just fonts on our computers. Hardly anyone knows their stories. Hardly anyone cares. Flicking through thousands of typefaces and finding the “right one” is a matter of minutes.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;In the new computer age the proliferation of typefaces and type manipulations represents a new level of visual pollution threatening our culture. Out of thousands of typefaces, all we need are a few basic ones, and trash the rest.&lt;/p&gt;
-&lt;p&gt;— Massimo Vignelli&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Typography is not about typefaces. It’s not about what looks best, it’s about what feels right. What communicates the message best. Typography, in its essence, is about the message. “Typographical design should perform optically what the speaker creates through voice and gesture of his thoughts.”, as El Lissitzky, a famous Russian typographer, put it.&lt;/p&gt;
-&lt;h2 id=&quot;loss-of-humanity-through-transitions&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#loss-of-humanity-through-transitions&quot; aria-label=&quot;loss of humanity through transitions permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Loss of humanity through transitions&lt;/h2&gt;
-&lt;p&gt;Each transition took away a part of humanity from written language. Handwritten books being the most humane form and the digital typefaces being the least. Overuse of Helvetica is a good example. Messages are being told in a typeface just because it’s a safe option. It’s always there. Everyone knows it but yet, nobody knows it. Stop someone on the street and ask him what Helvetica is? Ask a designer the same question. Ask him where it came from, when, why and who designed it. Most of them will fail to answer these questions. Most of them used it in their precious projects but they still don’t spot it in the street.&lt;/p&gt;
-&lt;figure&gt;
-	&lt;blockquote&gt;
-		&lt;p&gt;Knowledge of the quality of a typeface is of the greatest importance for the functional, aesthetic and psychological effect.&lt;/p&gt;
-		&lt;footer&gt;
-			&lt;cite&gt;— Josef Mueller-Brockmann&lt;/cite&gt;
-		&lt;/footer&gt;
-	&lt;/blockquote&gt;
-&lt;/figure&gt;
-&lt;p&gt;Typefaces don’t look handmade these days. And that’s all right. They don’t have to. Industrialism took that away from them and we’re fine with it. We’ve traded that part of humanity for a process that produces more books that are easier to read. That can’t be bad. And it isn’t.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Humane typography will often be comparatively rough and even uncouth; but while a certain uncouthness does not seriously matter in humane works, uncouthness has no excuse whatever in the productions of the machine.&lt;/p&gt;
-&lt;p&gt;— Eric Gill&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;We’ve come close to “perfection” in the last five centuries. The letters are crisp and without rough edges. We print our compositions with high–precision printers on a high quality, machine made paper.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/66fdb/type-through-time.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 20%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAEABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAABtoJUin//xAAWEAEBAQAAAAAAAAAAAAAAAAACABD/2gAIAQEAAQUCMM//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPwEn/8QAFhAAAwAAAAAAAAAAAAAAAAAAAAEQ/9oACAEBAAY/Ahz/xAAaEAABBQEAAAAAAAAAAAAAAAAhAAEQETFx/9oACAEBAAE/IbEutdR//9oADAMBAAIAAwAAABB8D//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/EGf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQMf/aAAgBAgEBPxCD/8QAGBABAAMBAAAAAAAAAAAAAAAAAQARIUH/2gAIAQEAAT8QQNG9YkO1rqXP/9k=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-          &lt;source
-              srcset=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/8ac56/type-through-time.webp 240w,
-/static/eaa988471fd2b61a1d4d313d0d9a5d23/d3be9/type-through-time.webp 480w,
-/static/eaa988471fd2b61a1d4d313d0d9a5d23/e46b2/type-through-time.webp 960w,
-/static/eaa988471fd2b61a1d4d313d0d9a5d23/e19c7/type-through-time.webp 1250w&quot;
-              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-              type=&quot;image/webp&quot;
-            /&gt;
-          &lt;source
-            srcset=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/09b79/type-through-time.jpg 240w,
-/static/eaa988471fd2b61a1d4d313d0d9a5d23/7cc5e/type-through-time.jpg 480w,
-/static/eaa988471fd2b61a1d4d313d0d9a5d23/6a068/type-through-time.jpg 960w,
-/static/eaa988471fd2b61a1d4d313d0d9a5d23/66fdb/type-through-time.jpg 1250w&quot;
-            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-            type=&quot;image/jpeg&quot;
-          /&gt;
-          &lt;img
-            class=&quot;gatsby-resp-image-image&quot;
-            src=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/6a068/type-through-time.jpg&quot;
-            alt=&quot;type-through-time.jpg&quot;
-            title=&quot;type-through-time.jpg&quot;
-            loading=&quot;lazy&quot;
-            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-          /&gt;
-        &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Type through 5 centuries.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;We lost a part of ourselves because of this chase after perfection. We forgot about the craftsmanship along the way. And the worst part is that we don’t care. The transition to the digital age made that clear. We choose typefaces like clueless zombies. There’s no meaning in our work. Type sizes, leading, margins… It’s all just a few clicks or lines of code. The message isn’t important anymore. There’s no more “why” behind the “what”.&lt;/p&gt;
-&lt;h2 id=&quot;chasing-perfection&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#chasing-perfection&quot; aria-label=&quot;chasing perfection permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Chasing perfection&lt;/h2&gt;
-&lt;p&gt;Human beings aren’t perfect. Perfection is something that will always elude us. There will always be a small part of humanity in everything we do. No matter how small that part, we should make sure that it transcends the limits of the medium. We have to think about the message first. What typeface should we use and why? Does the typeface match the message and what we want to communicate with it? What will be the leading and why? Will there be more typefaces in our design? On what ground will they be combined? What makes our design unique and why? This is the part of humanity that is left in typography. It might be the last part. Are we really going to give it up?&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Originally published by &lt;a href=&quot;http://matejlatin.co.uk/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Matej Latin&lt;/a&gt; on &lt;a href=&quot;https://medium.com/design-notes/humane-typography-in-the-digital-age-9bd5c16199bd?ref=webdesignernews.com#.lygo82z0x&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Medium&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Johannes Gutenberg: The Birth of Movable Type]]></title><description><![CDATA[German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.]]></description><link>https://lumen.netlify.com/posts/the-birth-of-movable-type</link><guid isPermaLink="false">https://lumen.netlify.com/posts/the-birth-of-movable-type</guid><pubDate>Fri, 18 Aug 2017 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Johannes Gensfleisch zur Laden zum Gutenberg&lt;/strong&gt; (c. 1398 – 1468) was a German blacksmith, goldsmith, printer, and publisher who introduced printing to Europe. His invention of mechanical movable type printing started the Printing Revolution and is widely regarded as the most important event of the modern period. It played a key role in the development of the Renaissance, Reformation, the Age of Enlightenment, and the Scientific revolution and laid the material basis for the modern knowledge-based economy and the spread of learning to the masses.&lt;/p&gt;
-&lt;figure class=&quot;float-right&quot; style=&quot;width: 240px&quot;&gt;
-	&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 374px; &quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/3e20438298edd3a3fa746766d803f379/bf505/gutenberg.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 128.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAaABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAQP/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAFxLehWIgM5WnDA2H//xAAcEAACAgMBAQAAAAAAAAAAAAABAwACERIhBBP/2gAIAQEAAQUC9DjBZi7LvvXIzmGxBcrU8lFDW3QgD6T/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAdEAACAgEFAAAAAAAAAAAAAAAAIQERAhAiMVGh/9oACAEBAAY/AqxIfpYzcInqTkYyVp//xAAeEAEAAgICAwEAAAAAAAAAAAABACERMUFREGFxkf/aAAgBAQABPyEqtgKrlnaB4D+kM9XSRZ57yMzcdC61E18NzM9WH2NXsS+NsAoBPc05Wq8f/9oADAMBAAIAAwAAABAwwzz/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/EB//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/EB//xAAfEAEAAgICAgMAAAAAAAAAAAABABEhMUFhEFFxgfD/2gAIAQEAAT8QZe2zt6PiYqDXmBN0LB5VnSYWvVocLdL9xtDlqmdub5WAj9B+6gFZa3ZtJWZr3ccF769FEWyhwLI6zecGHrx//9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;picture&gt;
-          &lt;source srcset=&quot;/static/3e20438298edd3a3fa746766d803f379/8ac56/gutenberg.webp 240w,
-/static/3e20438298edd3a3fa746766d803f379/ad40e/gutenberg.webp 374w&quot; sizes=&quot;(max-width: 374px) 100vw, 374px&quot; type=&quot;image/webp&quot;&gt;
-          &lt;source srcset=&quot;/static/3e20438298edd3a3fa746766d803f379/09b79/gutenberg.jpg 240w,
-/static/3e20438298edd3a3fa746766d803f379/bf505/gutenberg.jpg 374w&quot; sizes=&quot;(max-width: 374px) 100vw, 374px&quot; type=&quot;image/jpeg&quot;&gt;
-          &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/3e20438298edd3a3fa746766d803f379/bf505/gutenberg.jpg&quot; alt=&quot;Gutenberg&quot; title=&quot;Gutenberg&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
-        &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-	&lt;figcaption&gt;Johannes Gutenberg&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;With his invention of the printing press, Gutenberg was the first European to use movable type printing, in around 1439. Among his many contributions to printing are: the invention of a process for mass-producing movable type; the use of oil-based ink; and the use of a wooden printing press similar to the agricultural screw presses of the period. His truly epochal invention was the combination of these elements into a practical system that allowed the mass production of printed books and was economically viable for printers and readers alike. Gutenberg’s method for making type is traditionally considered to have included a type metal alloy and a hand mould for casting type. The alloy was a mixture of lead, tin, and antimony that melted at a relatively low temperature for faster and more economical casting, cast well, and created a durable type.&lt;/p&gt;
-&lt;p&gt;In Renaissance Europe, the arrival of mechanical movable type printing introduced the era of mass communication which permanently altered the structure of society. The relatively unrestricted circulation of information — including revolutionary ideas — transcended borders, captured the masses in the Reformation and threatened the power of political and religious authorities; the sharp increase in literacy broke the monopoly of the literate elite on education and learning and bolstered the emerging middle class. Across Europe, the increasing cultural self-awareness of its people led to the rise of proto-nationalism, accelerated by the flowering of the European vernacular languages to the detriment of Latin’s status as lingua franca. In the 19th century, the replacement of the hand-operated Gutenberg-style press by steam-powered rotary presses allowed printing on an industrial scale, while Western-style printing was adopted all over the world, becoming practically the sole medium for modern bulk printing.&lt;/p&gt;
-&lt;p&gt;The use of movable type was a marked improvement on the handwritten manuscript, which was the existing method of book production in Europe, and upon woodblock printing, and revolutionized European book-making. Gutenberg’s printing technology spread rapidly throughout Europe and later the world.&lt;/p&gt;
-&lt;p&gt;His major work, the Gutenberg Bible (also known as the 42-line Bible), has been acclaimed for its high aesthetic and technical quality.&lt;/p&gt;
-&lt;h2 id=&quot;printing-press&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#printing-press&quot; aria-label=&quot;printing press permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Printing Press&lt;/h2&gt;
-&lt;p&gt;Around 1439, Gutenberg was involved in a financial misadventure making polished metal mirrors (which were believed to capture holy light from religious relics) for sale to pilgrims to Aachen: in 1439 the city was planning to exhibit its collection of relics from Emperor Charlemagne but the event was delayed by one year due to a severe flood and the capital already spent could not be repaid. When the question of satisfying the investors came up, Gutenberg is said to have promised to share a “secret”. It has been widely speculated that this secret may have been the idea of printing with movable type. Also around 1439–1440, the Dutch Laurens Janszoon Coster came up with the idea of printing. Legend has it that the idea came to him “like a ray of light”.&lt;/p&gt;
-&lt;figure class=&quot;float-left&quot; style=&quot;width: 240px&quot;&gt;
-	&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 754px; &quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/e2437eaf9c41cfbdb18f88a49699f24e/cbfa4/printing-press.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 128.75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAaABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAGVTqYwTAr1ARNAP//EABsQAAICAwEAAAAAAAAAAAAAAAECAxEAEiEx/9oACAEBAAEFApNwbbWBmIkXpFCLxuMAwZBWUMKjFUV//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAIBAAAgEDBAMAAAAAAAAAAAAAAAERAiExIjJBUWFxkf/aAAgBAQAGPwJxUS6/g78lzwP2bZHpUDnswYRhH//EABwQAAIDAQEBAQAAAAAAAAAAAAERACExQZFR4f/aAAgBAQABPyHglk3AB0nrGMMqXYEgVsvZRojsjZaqBqH2ZIUNAe5FKmWl2PJ+GgNPCf/aAAwDAQACAAMAAAAQ08s8/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPxAf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPxAf/8QAHxABAQACAgEFAAAAAAAAAAAAAREAITFBYYGRobHh/9oACAEBAAE/EL1wcj1uS+cMvt9hJoLu0nrgGxaxdBg5Ryp684T1lWbK9GoYtmIz6yaCgdBfD3z8YRTwoGHtznNDhdBQwVKsZsZ+AYgir0M//9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;picture&gt;
-          &lt;source srcset=&quot;/static/e2437eaf9c41cfbdb18f88a49699f24e/8ac56/printing-press.webp 240w,
-/static/e2437eaf9c41cfbdb18f88a49699f24e/d3be9/printing-press.webp 480w,
-/static/e2437eaf9c41cfbdb18f88a49699f24e/20eb0/printing-press.webp 754w&quot; sizes=&quot;(max-width: 754px) 100vw, 754px&quot; type=&quot;image/webp&quot;&gt;
-          &lt;source srcset=&quot;/static/e2437eaf9c41cfbdb18f88a49699f24e/09b79/printing-press.jpg 240w,
-/static/e2437eaf9c41cfbdb18f88a49699f24e/7cc5e/printing-press.jpg 480w,
-/static/e2437eaf9c41cfbdb18f88a49699f24e/cbfa4/printing-press.jpg 754w&quot; sizes=&quot;(max-width: 754px) 100vw, 754px&quot; type=&quot;image/jpeg&quot;&gt;
-          &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/e2437eaf9c41cfbdb18f88a49699f24e/cbfa4/printing-press.jpg&quot; alt=&quot;Early Printing Press&quot; title=&quot;Early Printing Press&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
-        &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-	&lt;figcaption&gt;Early wooden printing press as depicted in 1568.&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;Until at least 1444 he lived in Strasbourg, most likely in the St. Arbogast parish. It was in Strasbourg in 1440 that Gutenberg is said to have perfected and unveiled the secret of printing based on his research, mysteriously entitled Kunst und Aventur (art and enterprise). It is not clear what work he was engaged in, or whether some early trials with printing from movable type may have been conducted there. After this, there is a gap of four years in the record. In 1448, he was back in Mainz, where he took out a loan from his brother-in-law Arnold Gelthus, quite possibly for a printing press or related paraphernalia. By this date, Gutenberg may have been familiar with intaglio printing; it is claimed that he had worked on copper engravings with an artist known as the Master of Playing Cards.&lt;/p&gt;
-&lt;p&gt;By 1450, the press was in operation, and a German poem had been printed, possibly the first item to be printed there. Gutenberg was able to convince the wealthy moneylender Johann Fust for a loan of 800 guilders. Peter Schöffer, who became Fust’s son-in-law, also joined the enterprise. Schöffer had worked as a scribe in Paris and is believed to have designed some of the first typefaces.&lt;/p&gt;
-&lt;figure&gt;
-	&lt;blockquote&gt;
-		&lt;p&gt;All that has been written to me about that marvelous man seen at Frankfurt is true. I have not seen complete Bibles but only a number of quires of various books of the Bible. The script was very neat and legible, not at all difficult to follow—your grace would be able to read it without effort, and indeed without glasses.&lt;/p&gt;
-		&lt;footer&gt;
-			&lt;cite&gt;—Future pope Pius II in a letter to Cardinal Carvajal, March 1455&lt;/cite&gt;
-		&lt;/footer&gt;
-	&lt;/blockquote&gt;
-&lt;/figure&gt;
-&lt;p&gt;Gutenberg’s workshop was set up at Hof Humbrecht, a property belonging to a distant relative. It is not clear when Gutenberg conceived the Bible project, but for this he borrowed another 800 guilders from Fust, and work commenced in 1452. At the same time, the press was also printing other, more lucrative texts (possibly Latin grammars). There is also some speculation that there may have been two presses, one for the pedestrian texts, and one for the Bible. One of the profit-making enterprises of the new press was the printing of thousands of indulgences for the church, documented from 1454–55.&lt;/p&gt;
-&lt;p&gt;In 1455 Gutenberg completed his 42-line Bible, known as the Gutenberg Bible. About 180 copies were printed, most on paper and some on vellum.&lt;/p&gt;
-&lt;h2 id=&quot;court-case&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#court-case&quot; aria-label=&quot;court case permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Court Case&lt;/h2&gt;
-&lt;p&gt;Some time in 1456, there was a dispute between Gutenberg and Fust, and Fust demanded his money back, accusing Gutenberg of misusing the funds. Meanwhile the expenses of the Bible project had proliferated, and Gutenberg’s debt now exceeded 20,000 guilders. Fust sued at the archbishop’s court. A November 1455 legal document records that there was a partnership for a “project of the books,” the funds for which Gutenberg had used for other purposes, according to Fust. The court decided in favor of Fust, giving him control over the Bible printing workshop and half of all printed Bibles.&lt;/p&gt;
-&lt;p&gt;Thus Gutenberg was effectively bankrupt, but it appears he retained (or re-started) a small printing shop, and participated in the printing of a Bible in the town of Bamberg around 1459, for which he seems at least to have supplied the type. But since his printed books never carry his name or a date, it is difficult to be certain, and there is consequently a considerable scholarly debate on this subject. It is also possible that the large Catholicon dictionary, 300 copies of 754 pages, printed in Mainz in 1460, may have been executed in his workshop.&lt;/p&gt;
-&lt;p&gt;Meanwhile, the Fust–Schöffer shop was the first in Europe to bring out a book with the printer’s name and date, the Mainz Psalter of August 1457, and while proudly proclaiming the mechanical process by which it had been produced, it made no mention of Gutenberg.&lt;/p&gt;
-&lt;h2 id=&quot;later-life&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#later-life&quot; aria-label=&quot;later life permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Later Life&lt;/h2&gt;
-&lt;p&gt;In 1462, during a conflict between two archbishops, Mainz was sacked by archbishop Adolph von Nassau, and Gutenberg was exiled. An old man by now, he moved to Eltville where he may have initiated and supervised a new printing press belonging to the brothers Bechtermünze.&lt;/p&gt;
-&lt;p&gt;In January 1465, Gutenberg’s achievements were recognized and he was given the title Hofmann (gentleman of the court) by von Nassau. This honor included a stipend, an annual court outfit, as well as 2,180 litres of grain and 2,000 litres of wine tax-free. It is believed he may have moved back to Mainz around this time, but this is not certain.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Gutenberg died in 1468 and was buried in the Franciscan church at Mainz, his contributions largely unknown. This church and the cemetery were later destroyed, and Gutenberg’s grave is now lost.&lt;/p&gt;
-&lt;p&gt;In 1504, he was mentioned as the inventor of typography in a book by Professor Ivo Wittig. It was not until 1567 that the first portrait of Gutenberg, almost certainly an imaginary reconstruction, appeared in Heinrich Pantaleon’s biography of famous Germans.&lt;/p&gt;
-&lt;h2 id=&quot;printing-method-with-movable-type&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#printing-method-with-movable-type&quot; aria-label=&quot;printing method with movable type permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Printing Method With Movable Type&lt;/h2&gt;
-&lt;p&gt;Gutenberg’s early printing process, and what tests he may have made with movable type, are not known in great detail. His later Bibles were printed in such a way as to have required large quantities of type, some estimates suggesting as many as 100,000 individual sorts. Setting each page would take, perhaps, half a day, and considering all the work in loading the press, inking the type, pulling the impressions, hanging up the sheets, distributing the type, etc., it is thought that the Gutenberg–Fust shop might have employed as many as 25 craftsmen.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bd0272909c25e194b94dc89edc338274/fa8cd/movable-type.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB1T5JeycP/8QAGRABAAIDAAAAAAAAAAAAAAAAAQARAiFB/9oACAEBAAEFAuS4hZHPf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABkQAAIDAQAAAAAAAAAAAAAAAAEQABExUf/aAAgBAQAGPwImUs6//8QAGRABAAMBAQAAAAAAAAAAAAAAAQARIVFB/9oACAEBAAE/IRqzfh2KGcfJjkqGhio5yWNF3Ygip//aAAwDAQACAAMAAAAQ0M//xAAVEQEBAAAAAAAAAAAAAAAAAAARAP/aAAgBAwEBPxBkv//EABYRAAMAAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPxCETP/EAB0QAQEAAgIDAQAAAAAAAAAAAAERACExUWGR4fD/2gAIAQEAAT8QR4MNpyWWe3EqqmnMnX3AGHHpcdEGRhEn15y3ZAQtP28DI0zP/9k=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-          &lt;source
-              srcset=&quot;/static/bd0272909c25e194b94dc89edc338274/8ac56/movable-type.webp 240w,
-/static/bd0272909c25e194b94dc89edc338274/d3be9/movable-type.webp 480w,
-/static/bd0272909c25e194b94dc89edc338274/e46b2/movable-type.webp 960w,
-/static/bd0272909c25e194b94dc89edc338274/f992d/movable-type.webp 1440w,
-/static/bd0272909c25e194b94dc89edc338274/882b9/movable-type.webp 1920w,
-/static/bd0272909c25e194b94dc89edc338274/58cee/movable-type.webp 2288w&quot;
-              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-              type=&quot;image/webp&quot;
-            /&gt;
-          &lt;source
-            srcset=&quot;/static/bd0272909c25e194b94dc89edc338274/09b79/movable-type.jpg 240w,
-/static/bd0272909c25e194b94dc89edc338274/7cc5e/movable-type.jpg 480w,
-/static/bd0272909c25e194b94dc89edc338274/6a068/movable-type.jpg 960w,
-/static/bd0272909c25e194b94dc89edc338274/644c5/movable-type.jpg 1440w,
-/static/bd0272909c25e194b94dc89edc338274/0f98f/movable-type.jpg 1920w,
-/static/bd0272909c25e194b94dc89edc338274/fa8cd/movable-type.jpg 2288w&quot;
-            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-            type=&quot;image/jpeg&quot;
-          /&gt;
-          &lt;img
-            class=&quot;gatsby-resp-image-image&quot;
-            src=&quot;/static/bd0272909c25e194b94dc89edc338274/6a068/movable-type.jpg&quot;
-            alt=&quot;Movable metal type, and composing stick, descended from Gutenberg&amp;#39;s press. Photo by Willi Heidelbach. Licensed under CC BY 2.5&quot;
-            title=&quot;Movable metal type, and composing stick, descended from Gutenberg&amp;#39;s press. Photo by Willi Heidelbach. Licensed under CC BY 2.5&quot;
-            loading=&quot;lazy&quot;
-            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-          /&gt;
-        &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Movable metal type, and composing stick, descended from Gutenberg’s press. Photo by Willi Heidelbach. Licensed under CC BY 2.5&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Gutenberg’s technique of making movable type remains unclear. In the following decades, punches and copper matrices became standardized in the rapidly disseminating printing presses across Europe. Whether Gutenberg used this sophisticated technique or a somewhat primitive version has been the subject of considerable debate.&lt;/p&gt;
-&lt;p&gt;In the standard process of making type, a hard metal punch (made by punchcutting, with the letter carved back to front) is hammered into a softer copper bar, creating a matrix. This is then placed into a hand-held mould and a piece of type, or “sort”, is cast by filling the mould with molten type-metal; this cools almost at once, and the resulting piece of type can be removed from the mould. The matrix can be reused to create hundreds, or thousands, of identical sorts so that the same character appearing anywhere within the book will appear very uniform, giving rise, over time, to the development of distinct styles of typefaces or fonts. After casting, the sorts are arranged into type-cases, and used to make up pages which are inked and printed, a procedure which can be repeated hundreds, or thousands, of times. The sorts can be reused in any combination, earning the process the name of “movable type”.&lt;/p&gt;
-&lt;p&gt;The invention of the making of types with punch, matrix and mold has been widely attributed to Gutenberg. However, recent evidence suggests that Gutenberg’s process was somewhat different. If he used the punch and matrix approach, all his letters should have been nearly identical, with some variations due to miscasting and inking. However, the type used in Gutenberg’s earliest work shows other variations.&lt;/p&gt;
-&lt;figure&gt;
-	&lt;blockquote&gt;
-		&lt;p&gt;It is a press, certainly, but a press from which shall flow in inexhaustible streams… Through it, god will spread his word.&lt;/p&gt;
-		&lt;footer&gt;
-			&lt;cite&gt;—Johannes Gutenberg&lt;/cite&gt;
-		&lt;/footer&gt;
-	&lt;/blockquote&gt;
-&lt;/figure&gt;
-&lt;p&gt;In 2001, the physicist Blaise Agüera y Arcas and Princeton librarian Paul Needham, used digital scans of a Papal bull in the Scheide Library, Princeton, to carefully compare the same letters (types) appearing in different parts of the printed text. The irregularities in Gutenberg’s type, particularly in simple characters such as the hyphen, suggested that the variations could not have come from either ink smear or from wear and damage on the pieces of metal on the types themselves. While some identical types are clearly used on other pages, other variations, subjected to detailed image analysis, suggested that they could not have been produced from the same matrix. Transmitted light pictures of the page also appeared to reveal substructures in the type that could not arise from traditional punchcutting techniques. They hypothesized that the method may have involved impressing simple shapes to create alphabets in “cuneiform” style in a matrix made of some soft material, perhaps sand. Casting the type would destroy the mould, and the matrix would need to be recreated to make each additional sort. This could explain the variations in the type, as well as the substructures observed in the printed images.&lt;/p&gt;
-&lt;p&gt;Thus, they feel that “the decisive factor for the birth of typography”, the use of reusable moulds for casting type, might have been a more progressive process than was previously thought. They suggest that the additional step of using the punch to create a mould that could be reused many times was not taken until twenty years later, in the 1470s. Others have not accepted some or all of their suggestions, and have interpreted the evidence in other ways, and the truth of the matter remains very uncertain.&lt;/p&gt;
-&lt;p&gt;A 1568 history by Hadrianus Junius of Holland claims that the basic idea of the movable type came to Gutenberg from Laurens Janszoon Coster via Fust, who was apprenticed to Coster in the 1430s and may have brought some of his equipment from Haarlem to Mainz. While Coster appears to have experimented with moulds and castable metal type, there is no evidence that he had actually printed anything with this technology. He was an inventor and a goldsmith. However, there is one indirect supporter of the claim that Coster might be the inventor. The author of the Cologne Chronicle of 1499 quotes Ulrich Zell, the first printer of Cologne, that printing was performed in Mainz in 1450, but that some type of printing of lower quality had previously occurred in the Netherlands. However, the chronicle does not mention the name of Coster, while it actually credits Gutenberg as the “first inventor of printing” in the very same passage (fol. 312). The first securely dated book by Dutch printers is from 1471, and the Coster connection is today regarded as a mere legend.&lt;/p&gt;
-&lt;p&gt;The 19th century printer and typefounder Fournier Le Jeune suggested that Gutenberg might not have been using type cast with a reusable matrix, but possibly wooden types that were carved individually. A similar suggestion was made by Nash in 2004. This remains possible, albeit entirely unproven.&lt;/p&gt;
-&lt;p&gt;It has also been questioned whether Gutenberg used movable types at all. In 2004, Italian professor Bruno Fabbiani claimed that examination of the 42-line Bible revealed an overlapping of letters, suggesting that Gutenberg did not in fact use movable type (individual cast characters) but rather used whole plates made from a system somewhat like a modern typewriter, whereby the letters were stamped successively into the plate and then printed. However, most specialists regard the occasional overlapping of type as caused by paper movement over pieces of type of slightly unequal height.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The Origins of Social Stationery Lettering]]></title><description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.]]></description><link>https://lumen.netlify.com/posts/the-origins-of-social-stationery-lettering</link><guid isPermaLink="false">https://lumen.netlify.com/posts/the-origins-of-social-stationery-lettering</guid><pubDate>Thu, 01 Dec 2016 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;Pellentesque habitant morbi tristique&lt;/strong&gt; senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. &lt;em&gt;Aenean ultricies mi vitae est.&lt;/em&gt; Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. &lt;/p&gt;
-&lt;p&gt;Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.  &lt;a href=&quot;#&quot;&gt;Donec non enim&lt;/a&gt; in turpis pulvinar facilisis.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/732bbf5c4fdcc63ac39e10f8f82a3435/d9c39/image-3.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAgP/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABfVKJiSH/xAAaEAEAAwADAAAAAAAAAAAAAAACAAESAyEy/9oACAEBAAEFAmsz1HyUUlWh3ENX/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGhAAAgIDAAAAAAAAAAAAAAAAAAEQESFRYf/aAAgBAQAGPwLpkqixPTj/xAAaEAACAwEBAAAAAAAAAAAAAAAAAREhMUGx/9oACAEBAAE/IUVVhS24c101z0lpaZnT0TI+Uf/aAAwDAQACAAMAAAAQby//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAEDAQE/EFEYf//EABYRAQEBAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxB1n//EABsQAQEBAAMBAQAAAAAAAAAAAAERACExUUGh/9oACAEBAAE/EDAqfPMB1RCeCH5mwNBUHOQq1qdGTO7KHHGIUBrp4u//2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-          &lt;source
-              srcset=&quot;/static/732bbf5c4fdcc63ac39e10f8f82a3435/8ac56/image-3.webp 240w,
-/static/732bbf5c4fdcc63ac39e10f8f82a3435/d3be9/image-3.webp 480w,
-/static/732bbf5c4fdcc63ac39e10f8f82a3435/e46b2/image-3.webp 960w,
-/static/732bbf5c4fdcc63ac39e10f8f82a3435/f992d/image-3.webp 1440w,
-/static/732bbf5c4fdcc63ac39e10f8f82a3435/62ed8/image-3.webp 1800w&quot;
-              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-              type=&quot;image/webp&quot;
-            /&gt;
-          &lt;source
-            srcset=&quot;/static/732bbf5c4fdcc63ac39e10f8f82a3435/09b79/image-3.jpg 240w,
-/static/732bbf5c4fdcc63ac39e10f8f82a3435/7cc5e/image-3.jpg 480w,
-/static/732bbf5c4fdcc63ac39e10f8f82a3435/6a068/image-3.jpg 960w,
-/static/732bbf5c4fdcc63ac39e10f8f82a3435/644c5/image-3.jpg 1440w,
-/static/732bbf5c4fdcc63ac39e10f8f82a3435/d9c39/image-3.jpg 1800w&quot;
-            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-            type=&quot;image/jpeg&quot;
-          /&gt;
-          &lt;img
-            class=&quot;gatsby-resp-image-image&quot;
-            src=&quot;/static/732bbf5c4fdcc63ac39e10f8f82a3435/6a068/image-3.jpg&quot;
-            alt=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
-            title=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
-            loading=&quot;lazy&quot;
-            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-          /&gt;
-        &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2 id=&quot;header-level-2&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#header-level-2&quot; aria-label=&quot;header level 2 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Header Level 2&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[All Coding Tutorials]]></title><description><![CDATA[Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.]]></description><link>https://lumen.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 12 Sep 2021 14:08:32 GMT</lastBuildDate><item><title><![CDATA[Netflix Movie Recommendation using Deep Learning (with Collaborative Filtering)]]></title><description><![CDATA[We will be looking at how to build a movie recommendation model using TensorFlow (Part 1)]]></description><link>https://lumen.netlify.com/posts/netflix-deep-learning-part-1</link><guid isPermaLink="false">https://lumen.netlify.com/posts/netflix-deep-learning-part-1</guid><pubDate>Sun, 12 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/9792/0*VaJk10rzIqhfT-sl&quot; alt=&quot;Photo by [Henry &amp;#x26; Co.](https://unsplash.com/@hngstrm?utm_source=medium&amp;#x26;utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&amp;#x26;utm_medium=referral)&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;datasets&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#datasets&quot; aria-label=&quot;datasets permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Datasets&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;users_cols = [&apos;user_id&apos;, &apos;age&apos;, &apos;sex&apos;, &apos;occupation&apos;, &apos;zip_code&apos;]
+users = pd.read_csv(&apos;/content/drive/My Drive/Colab Notebooks/ml-100k/u.user&apos;, sep=&apos;|&apos;, names=users_cols)
+
+ratings_cols = [&apos;user_id&apos;, &apos;movie_id&apos;, &apos;rating&apos;, &apos;unix_timestamp&apos;]
+ratings = pd.read_csv(&apos;/content/drive/My Drive/Colab Notebooks/ml-100k/u.data&apos;, sep=&apos;\t&apos;, names=ratings_cols, encoding=&apos;latin-1&apos;)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id=&quot;what-is-a-recommendation-model&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#what-is-a-recommendation-model&quot; aria-label=&quot;what is a recommendation model permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What is a recommendation model?&lt;/h2&gt;
+&lt;p&gt;A recommendation model, in simple terms, is an algorithm which aims to provide the most relevant and relatable information to a user depending on the behaviour of the user. Companies like Netflix and Google have a huge database of the behaviours of data collected to be able to perform state-of-the-art recommendations so that they can display the most relevant content or services to the users to increase the engagement. In part 1, we would be building a recommendation model using &lt;strong&gt;&lt;em&gt;Collaborative Filtering&lt;/em&gt;&lt;/strong&gt; to recommend movies to users.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1GV4lg3LRN-ghtAwJbN_Xy9tQmpAEykPY&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;&lt;strong&gt;Google Colab Notebook&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;collaborative-filtering&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#collaborative-filtering&quot; aria-label=&quot;collaborative filtering permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Collaborative Filtering?&lt;/h2&gt;
+&lt;p&gt;Collaborative filtering tackles the similarities between the users and items to perform recommendations. Meaning that the algorithm constantly find the relationships between the users and in-turns does the recommendations. The algorithm learn the embeddings between the users without having to tune the features. The most common technique is by performing Matrix Factorization to find the embeddings or features that makes up the interest of a particular user.&lt;/p&gt;
+&lt;h3 id=&quot;matrix-factorization&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#matrix-factorization&quot; aria-label=&quot;matrix factorization permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Matrix Factorization&lt;/h3&gt;
+&lt;p&gt;Matrix factorization is an embedding. Say we have a user-movie matrix or &lt;em&gt;feedback matrix, A&lt;/em&gt;ᴺᴹ, the models learns to decompose into:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
-&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
+&lt;li&gt;An &lt;strong&gt;&lt;em&gt;user&lt;/em&gt;&lt;/strong&gt; embedding vector U, where row N is the embedding for item M.&lt;/li&gt;
+&lt;li&gt;An &lt;strong&gt;&lt;em&gt;item&lt;/em&gt;&lt;/strong&gt; embedding vector V, where row M is the embedding for item N&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. &lt;/p&gt;
-&lt;figure&gt;
-	&lt;blockquote&gt;
-		&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.&lt;/p&gt;
-		&lt;footer&gt;
-			&lt;cite&gt;— Aliquam tincidunt mauris eu risus.&lt;/cite&gt;
-		&lt;/footer&gt;
-	&lt;/blockquote&gt;
-&lt;/figure&gt;
-&lt;h3 id=&quot;header-level-3&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#header-level-3&quot; aria-label=&quot;header level 3 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Header Level 3&lt;/h3&gt;
+&lt;p&gt;The embedding vector is learned such that by performing UVᵀ, an approximation of the feedback matrix, A can be formed.&lt;/p&gt;
+&lt;h3 id=&quot;loss-function&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#loss-function&quot; aria-label=&quot;loss function permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Loss Function&lt;/h3&gt;
+&lt;p&gt;To approximate the feedback matrix, a loss function is needed.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;predictions = tf.gather_nd(tf.matmul(vectorU, vectorV, transpose_b=True),sparse_matrix_UV.indices)
+loss_mse = tf.losses.mean_squared_error(sparse_matrix_UV.values, predictions)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;One of the intuitive loss function is using mean squared error (MSE). MSE computes the difference in the feedback matrix A and the approximated UVᵀ matrix. In simple terms:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*v4Iv2GF8_QXt7j6Hn9ENfA.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;where:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
-&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;n&lt;/em&gt;&lt;/strong&gt; represents the total number of users&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;Yᵢ&lt;/em&gt;&lt;/strong&gt; represents the feedback matrix A&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;Yᵢ_bar&lt;/em&gt;&lt;/strong&gt; represents the approximated matrix UVᵀ&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;css&quot;&gt;&lt;pre class=&quot;language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;&lt;span class=&quot;token selector&quot;&gt;#header h1 a&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;display&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; block&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 300px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 80px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/71ba9417da76c390c80ad2f49c9c227d/cpu.svg&quot; alt=&quot;Test SVG&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Perfecting the Art of Perfection]]></title><description><![CDATA[Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.]]></description><link>https://lumen.netlify.com/posts/perfecting-the-art-of-perfection</link><guid isPermaLink="false">https://lumen.netlify.com/posts/perfecting-the-art-of-perfection</guid><pubDate>Thu, 01 Sep 2016 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/0249a8579cfb4088acaf23fcac068444/d9c39/image-2.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAaa8hyWBEP/EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMSBBP/2gAIAQEAAQUCbnLzNmfQpFcgt1WZn//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AVf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwFH/8QAHRAAAAYDAQAAAAAAAAAAAAAAAAECEBESISJxof/aAAgBAQAGPwKbkNYVwVWWWr63/8QAGxAAAgMBAQEAAAAAAAAAAAAAAREAITFRYZH/2gAIAQEAAT8h4/CbqGqoAvH2bwuzSXC1EA8C45//2gAMAwEAAgADAAAAECAP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARMf/aAAgBAwEBPxATtq//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEx/9oACAECAQE/EEeWb//EAB0QAQACAgIDAAAAAAAAAAAAAAEAESFRQXExYaH/2gAIAQEAAT8Q8maKQ0Osxgrk11gcIzHsBgv5BCW233uWAbGAD1qKtW1cq8z/2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-          &lt;source
-              srcset=&quot;/static/0249a8579cfb4088acaf23fcac068444/8ac56/image-2.webp 240w,
-/static/0249a8579cfb4088acaf23fcac068444/d3be9/image-2.webp 480w,
-/static/0249a8579cfb4088acaf23fcac068444/e46b2/image-2.webp 960w,
-/static/0249a8579cfb4088acaf23fcac068444/f992d/image-2.webp 1440w,
-/static/0249a8579cfb4088acaf23fcac068444/62ed8/image-2.webp 1800w&quot;
-              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-              type=&quot;image/webp&quot;
-            /&gt;
-          &lt;source
-            srcset=&quot;/static/0249a8579cfb4088acaf23fcac068444/09b79/image-2.jpg 240w,
-/static/0249a8579cfb4088acaf23fcac068444/7cc5e/image-2.jpg 480w,
-/static/0249a8579cfb4088acaf23fcac068444/6a068/image-2.jpg 960w,
-/static/0249a8579cfb4088acaf23fcac068444/644c5/image-2.jpg 1440w,
-/static/0249a8579cfb4088acaf23fcac068444/d9c39/image-2.jpg 1800w&quot;
-            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-            type=&quot;image/jpeg&quot;
-          /&gt;
-          &lt;img
-            class=&quot;gatsby-resp-image-image&quot;
-            src=&quot;/static/0249a8579cfb4088acaf23fcac068444/6a068/image-2.jpg&quot;
-            alt=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
-            title=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
-            loading=&quot;lazy&quot;
-            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-          /&gt;
-        &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. &lt;/p&gt;
-&lt;p&gt;Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[A Brief History of Typography]]></title><description><![CDATA[Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.]]></description><link>https://lumen.netlify.com/posts/a-brief-history-of-typography</link><guid isPermaLink="false">https://lumen.netlify.com/posts/a-brief-history-of-typography</guid><pubDate>Tue, 02 Feb 2016 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;Pellentesque habitant morbi tristique&lt;/strong&gt; senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. &lt;em&gt;Aenean ultricies mi vitae est.&lt;/em&gt; Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. &lt;/p&gt;
-&lt;p&gt;Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.  &lt;a href=&quot;#&quot;&gt;Donec non enim&lt;/a&gt; in turpis pulvinar facilisis.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/b3e5e61f7fb8888ba76b502242e27bd0/d9c39/image-0.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAE/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/9oADAMBAAIQAxAAAAFYTebWei//xAAcEAABAwUAAAAAAAAAAAAAAAABAAIhAxESMkH/2gAIAQEAAQUCBQkPxvKp6d//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAZEAACAwEAAAAAAAAAAAAAAAAAARAhYXH/2gAIAQEABj8CmhaPp//EABwQAQADAQADAQAAAAAAAAAAAAEAESExQWFxkf/aAAgBAQABPyG2s3zDlwtPso2l+4urVTU7nen9iDmYif/aAAwDAQACAAMAAAAQVy//xAAWEQADAAAAAAAAAAAAAAAAAAAAASH/2gAIAQMBAT8QShD/xAAWEQADAAAAAAAAAAAAAAAAAAAAASH/2gAIAQIBAT8QbpT/xAAdEAEAAgIDAQEAAAAAAAAAAAABABEhMUFRYXGR/9oACAEBAAE/EBqFjmHHCQKTXget+R0cJnJjlDcKlul/L4gKW10tG7HcIO4FdP2f/9k=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-          &lt;source
-              srcset=&quot;/static/b3e5e61f7fb8888ba76b502242e27bd0/8ac56/image-0.webp 240w,
-/static/b3e5e61f7fb8888ba76b502242e27bd0/d3be9/image-0.webp 480w,
-/static/b3e5e61f7fb8888ba76b502242e27bd0/e46b2/image-0.webp 960w,
-/static/b3e5e61f7fb8888ba76b502242e27bd0/f992d/image-0.webp 1440w,
-/static/b3e5e61f7fb8888ba76b502242e27bd0/62ed8/image-0.webp 1800w&quot;
-              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-              type=&quot;image/webp&quot;
-            /&gt;
-          &lt;source
-            srcset=&quot;/static/b3e5e61f7fb8888ba76b502242e27bd0/09b79/image-0.jpg 240w,
-/static/b3e5e61f7fb8888ba76b502242e27bd0/7cc5e/image-0.jpg 480w,
-/static/b3e5e61f7fb8888ba76b502242e27bd0/6a068/image-0.jpg 960w,
-/static/b3e5e61f7fb8888ba76b502242e27bd0/644c5/image-0.jpg 1440w,
-/static/b3e5e61f7fb8888ba76b502242e27bd0/d9c39/image-0.jpg 1800w&quot;
-            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-            type=&quot;image/jpeg&quot;
-          /&gt;
-          &lt;img
-            class=&quot;gatsby-resp-image-image&quot;
-            src=&quot;/static/b3e5e61f7fb8888ba76b502242e27bd0/6a068/image-0.jpg&quot;
-            alt=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
-            title=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
-            loading=&quot;lazy&quot;
-            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-          /&gt;
-        &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2 id=&quot;header-level-2&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#header-level-2&quot; aria-label=&quot;header level 2 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Header Level 2&lt;/h2&gt;
+&lt;h3 id=&quot;regularization-function&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#regularization-function&quot; aria-label=&quot;regularization function permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Regularization Function&lt;/h3&gt;
+&lt;p&gt;One of the most common problems with training the model is overfitting. Overfitting happens because the model is trying to learn the embedding of certain features that does not contribute to the accuracy of the model. If this particular outlier feature has large ‘amplitude’ or bias, then it is said that the model is over-fitted to these particular features. To reduce that, we can add a penalty term to the MSE loss. The most common models used are &lt;strong&gt;Lasso Regression&lt;/strong&gt; and &lt;strong&gt;Ridge Regression&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;&lt;strong&gt;Regularization in Machine Learning&lt;/strong&gt;
+&lt;em&gt;One of the major aspects of training your machine learning model is avoiding overfitting. The model will have a low…&lt;/em&gt;towardsdatascience.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ridge Regression (L2)&lt;/strong&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*4Ip1dld4EDwR-_9MT_C0tA.png&quot; alt=&quot;Ridge Formula&quot;&gt;
+  &lt;/p&gt;&lt;div style=&quot;width: 200px; text-align: center;&quot;&gt;Ridge Formula&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
-&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
+&lt;li&gt;Takes the &lt;strong&gt;square&lt;/strong&gt; of the coefficient, &lt;strong&gt;&lt;em&gt;w&lt;/em&gt;&lt;/strong&gt;. Hence, any large &lt;strong&gt;&lt;em&gt;w&lt;/em&gt;&lt;/strong&gt; values will be penalized to reduce overfitting.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. &lt;/p&gt;
-&lt;figure&gt;
-	&lt;blockquote&gt;
-		&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.&lt;/p&gt;
-		&lt;footer&gt;
-			&lt;cite&gt;— Aliquam tincidunt mauris eu risus.&lt;/cite&gt;
-		&lt;/footer&gt;
-	&lt;/blockquote&gt;
-&lt;/figure&gt;
-&lt;h3 id=&quot;header-level-3&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#header-level-3&quot; aria-label=&quot;header level 3 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Header Level 3&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Lasso Regression (L1)&lt;/strong&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*lJ0IFi99QIM2XpcT8FJE0g.png&quot; alt=&quot;Lasso Formula&quot;&gt;
+  &lt;/p&gt;&lt;div style=&quot;width: 200px; text-align: center;&quot;&gt;Lasso Formula&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
-&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
+&lt;li&gt;Takes the &lt;strong&gt;magnitude&lt;/strong&gt; of the coefficient, &lt;strong&gt;&lt;em&gt;w&lt;/em&gt;&lt;/strong&gt;. Hence, any large &lt;strong&gt;w&lt;/strong&gt; values will be penalized to reduce overfitting.&lt;/li&gt;
+&lt;li&gt;Useful to shrink the coefficients and perform feature selection if you have a sparse matrix, which is what we need.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;css&quot;&gt;&lt;pre class=&quot;language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;&lt;span class=&quot;token selector&quot;&gt;#header h1 a&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;display&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; block&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 300px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 80px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;h2 id=&quot;making-recommendations&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#making-recommendations&quot; aria-label=&quot;making recommendations permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Making recommendations&lt;/h2&gt;
+&lt;p&gt;The training model can be created as below:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;class Model(object):
+
+  def __init__(self, embedding_vars, loss, metrics=None):
+
+    self.embedding_vars = embedding_vars
+    self.loss = loss
+    self.metrics = metrics
+    self.embeddings = {k: None for k in embedding_vars}
+    self.session = None
+
+  def embeddings(self):
+
+    return self.embeddings
+
+  def train(self, num_iterations=100, learning_rate=1.0, plot_results=True, optimizer=tf.train.GradientDescentOptimizer):
+
+    with self.loss.graph.as_default():
+
+      # Minimize loss function
+      train_op = optimizer(learning_rate).minimize(self.loss)
+
+      # Initialise the operation
+      local_init_op = tf.group(tf.variables_initializer(optimizer(learning_rate).variables()), tf.local_variables_initializer())
+
+      if self.session is None:
+        self.session = tf.Session()
+
+        with self.session.as_default():
+          self.session.run([tf.global_variables_initializer(), tf.tables_initializer()])
+
+    with self.session.as_default():
+      local_init_op.run()
+      iterations = []
+      metrics = {}
+      metrics_vals = {}
+
+      # Train and append results.
+      for i in range(num_iterations + 1):
+        _, results = self.session.run((train_op, metrics))
+        if i == num_iterations:
+
+          for metric_val, result in zip(metrics_vals, results):
+
+            # Embeddings are u and k respectively
+            for k, v in result.items():
+              metric_val[k].append(v)
+
+      for k, v in self.embedding_vars.items():
+        self.embeddings[k] = v.eval()&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Add regularization function L1 to reduce overfitting of outlier features&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;def build_model(ratings, embedding_dim=3, regularization_coeff=0.1, init_stddev=0.1):
+
+  # Split the training and test datasets
+  train_ratings, test_ratings = split_dataframe(ratings)
+
+  # Creating a random variable vector for the embeddings
+  vectorU = tf.Variable(tf.random.normal([build_rating_sparse_tensor(train_ratings).dense_shape[0], embedding_dim], stddev=init_stddev))
+  vectorV = tf.Variable(tf.random.normal([build_rating_sparse_tensor(train_ratings).dense_shape[1], embedding_dim], stddev=init_stddev))
+
+  # Computing the mean squared error for feedback matrix approximation
+  train_loss = mse_error(build_rating_sparse_tensor(train_ratings), vectorU, vectorV)
+  test_loss = mse_error(build_rating_sparse_tensor(test_ratings), vectorU, vectorV)
+
+  # Buiding the cost function for L1 regularization.
+  feedbackLoss = train_loss + (regularization_coeff * (tf.math.reduce_sum(tf.math.abs(vectorU))/vectorU.shape[0].value +
+                                                      tf.math.reduce_sum(tf.math.abs(vectorV))/vectorV.shape[0].value))
+  loss_components = {&apos;loss&apos;: feedbackLoss}
+
+  embeddings = {&quot;user_id&quot;: vectorU, &quot;movie_id&quot;: vectorV}
+
+  return Model(embeddings, feedbackLoss, [loss_components])&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Generally, the steps &lt;em&gt;(and functions)&lt;/em&gt; are listed below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create a &lt;strong&gt;sparse tensor&lt;/strong&gt;: &lt;em&gt;tf.SparseTensor()&lt;/em&gt;, for &lt;strong&gt;&lt;em&gt;U&lt;/em&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;V&lt;/em&gt;&lt;/strong&gt; matrix with random initialisation&lt;/li&gt;
+&lt;li&gt;Create the &lt;strong&gt;loss function and optimiser&lt;/strong&gt;: &lt;em&gt;tf.losses.mean&lt;em&gt;squared&lt;/em&gt;error()&lt;/em&gt; to estimate the total loss with regularization penalty and SGD as the optimiser&lt;/li&gt;
+&lt;li&gt;Create the &lt;strong&gt;model&lt;/strong&gt;: &lt;em&gt;tf.Session()&lt;/em&gt;, Initialise hyperparams, learning rate and embeddings&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Train&lt;/strong&gt; the model: &lt;em&gt;tf.Session.run()&lt;/em&gt;, to learn the embeddings of the feedback matrix and return the &lt;strong&gt;&lt;em&gt;v&lt;/em&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;k&lt;/em&gt;&lt;/strong&gt; as the embedding vector&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Show&lt;/strong&gt; recommendations: &lt;em&gt;df.DataFrame()&lt;/em&gt;, to show the closest movie with respect to the user queried&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;With the model ready, lets try to compute the recommedations for user ID: &lt;strong&gt;500&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;def userRecommendation(model, userID):
+
+  # Upon getting the user and movie embedding vector, the score recreates the feedback matrix.
+  userEmbedding = model.embeddings[&apos;user_id&apos;][userID]
+  movieEmbedding = model.embeddings[&apos;movie_id&apos;]
+
+  scores = userEmbedding.dot(movieEmbedding.T)
+
+  df = pd.DataFrame({
+      &apos;SCORE&apos;: list(scores),
+      &apos;MOVIE&apos;: movies[&apos;movie_id&apos;],
+      &apos;TITLE&apos;: movies[&apos;title&apos;],})
+
+  return display.display(df.sort_values(&apos;SCORE&apos;, ascending=False).head(5)), df&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Below is the result:&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*t3-0VJySPHlwZOcvs1p0Bw.png&quot; alt=&quot;Final Results&quot;&gt;
+&lt;/p&gt;
+&lt;p&gt;We can to see that the model has learned the embeddings for user 500 and it recommends the top 5 movies are User ID: 500 might enjoy.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Netflix Movie Recommendation using Deep Learning (with Neural Network)]]></title><description><![CDATA[We will be looking at how to build a movie recommendation model using TensorFlow (Part 2)]]></description><link>https://lumen.netlify.com/posts/netflix-deep-learning-part-2</link><guid isPermaLink="false">https://lumen.netlify.com/posts/netflix-deep-learning-part-2</guid><pubDate>Sun, 12 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/11082/0*X6o4wyXaZxNC9bEa&quot; alt=&quot;Photo by [Myke Simon](https://unsplash.com/@myke_simon?utm_source=medium&amp;#x26;utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&amp;#x26;utm_medium=referral)&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://medium.com/analytics-vidhya/tensorflow-for-recommendation-model-part-1-19f6b6dc207d&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;&lt;strong&gt;Previous Tutorial: TensorFlow for Recommendation Model: Part 1&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Let’s continue on where we left off. In the previous series, we had used Matrix Factorization to learn the user embeddings vector to perform the recommendations for us. These user embeddings represent the learned features between the users and the movie matrix called the feedback matrix. Now, let’s understand how Deep Learning could be used in performing the recommendations instead. The Google Colab is linked below.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/11zEddP5TUAVCTkUgFwtFN7LG1z2A85hB#scrollTo=TOF0qSte0ljl&amp;#x26;uniqifier=4&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;&lt;strong&gt;Google Colaboratory&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;disadvantages-of-matrix-factorisation&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#disadvantages-of-matrix-factorisation&quot; aria-label=&quot;disadvantages of matrix factorisation permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Disadvantages of Matrix Factorisation&lt;/h2&gt;
+&lt;p&gt;For the most part, there are some disadvantages of using MF to perform recommendations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Small feature space&lt;/strong&gt;: The only features that can be queried if either movie or user id.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The relevance of recommendation&lt;/strong&gt;: Since MF is about using dot product or Euclidean distance, the most popular items are recommended to everyone.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;convolutional-neural-network&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#convolutional-neural-network&quot; aria-label=&quot;convolutional neural network permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Convolutional Neural Network&lt;/h2&gt;
+&lt;p&gt;In neural nets, CNN remains the main algorithm to perform image classification, image recognition, object detection, etc.
+&lt;a href=&quot;https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;&lt;strong&gt;Understanding of Convolutional Neural Network (CNN) — Deep Learning&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In recommendations model, however, we can go about creating a simple softmax CNN model where the parameters are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Input&lt;/strong&gt;: User query input and the items associated with it.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Output&lt;/strong&gt;: Interaction probability of a user with the items.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In the input space, more side features can be added, such as watch time, countries, and more. This will allow more data to be learned by the NN in the hidden layer, thus, making more connections in those layers.&lt;/p&gt;
+&lt;h2 id=&quot;activation-layers&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#activation-layers&quot; aria-label=&quot;activation layers permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Activation Layers&lt;/h2&gt;
+&lt;p&gt;By defining the architecture of the NN, activations layers can be added to capture more hidden connections further and form a better feature sampling in the hidden layers. For this recommendation model, the Rectified Linear Unit (ReLU) will be used.&lt;/p&gt;
+&lt;p&gt;In most NN, gradient descent algorithm will be used where during the back-propagation of the errors, an activation function is needed to act as a linear function. This is where ReLU comes in.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2128/1*CWNz_yXHhJA8ssMBNPcz9g.png&quot; alt=&quot;Source: [https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/](https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/)&quot;&gt;&lt;/p&gt;
+&lt;p&gt;If we take a look at the image on the left, we can see that equation of the function can be represented by &lt;strong&gt;&lt;em&gt;y=max(0, x), which&lt;/em&gt;&lt;/strong&gt; means to adopt the values of y when the value of x is greater than 0. This acts as a linear and a non-linear function where the function is linear for amounts greater than zero, meaning it has a lot of the desirable properties of a linear activation function. Yet, it is a non-linear function as negative values are always output as zero. This is why the ReLu activation function is mostly used on modern NN.&lt;/p&gt;
+&lt;h2 id=&quot;softmax-as-the-final-layer&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#softmax-as-the-final-layer&quot; aria-label=&quot;softmax as the final layer permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Softmax as the Final Layer&lt;/h2&gt;
+&lt;p&gt;The model maps the output of the last layer, through a softmax layer to a probability distribution. A function that takes as input a vector of X real numbers, and normalizes it into a probability distribution consisting of X probabilities proportional to the exponentials of the input numbers. To put into the recommendations models perspective:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*nKbDx69gMJYN9v7CsAe3YA.png&quot;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;x&lt;/em&gt;&lt;/strong&gt; represents the individual probability of the user-feature interaction output. This can be the suggested movie that the user will be watching next&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;*σ(x)&lt;/strong&gt; *represents the probability of that output over a distribution across ALL the outputs in the final layer
+&lt;a href=&quot;https://medium.com/data-science-bootcamp/understand-the-softmax-function-in-minutes-f3a59641e86d&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;&lt;strong&gt;Understand the Softmax Function in Minutes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;embeddings-in-neural-network&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#embeddings-in-neural-network&quot; aria-label=&quot;embeddings in neural network permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Embeddings in Neural Network&lt;/h2&gt;
+&lt;p&gt;Compared to the MF model, the NN model also has embeddings to represent the relationship between the user and the item. The model learns the embeddings, V per item, j.&lt;/p&gt;
+&lt;p&gt;The query embeddings, however, are different. Instead of learning one embedding per query, the system determines a mapping from the query feature to an embedding. Therefore, since the activation function (ReLU) is present, the embeddings are now generalized as a non-linear function as compared to the MF model.&lt;/p&gt;
+&lt;p&gt;There are possible ways to perform dot product into these embeddings to obtain a final probability score, but it is not part of the scope in this series.&lt;/p&gt;
+&lt;h2 id=&quot;input-data&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#input-data&quot; aria-label=&quot;input data permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Input Data&lt;/h2&gt;
+&lt;p&gt;Now let’s define the training data for the created NN model. The training data consists of the query features and a vector of items the user interacted with (represented as a probability distribution). The variables or the weights represent the interaction of the user-item features and are randomly initialized for training.&lt;/p&gt;
+&lt;h3 id=&quot;creating-the-data&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#creating-the-data&quot; aria-label=&quot;creating the data permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Creating the data&lt;/h3&gt;
+&lt;p&gt;The input data is created from the ratings() dataFrame and the movies() dataFrame.&lt;/p&gt;
+&lt;p&gt;This dataframe represents the basic information we would have to collate from to create the input data&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;genre_cols = [
+    &quot;genre_unknown&quot;, &quot;Action&quot;, &quot;Adventure&quot;, &quot;Animation&quot;, &quot;Children&quot;, &quot;Comedy&quot;,
+    &quot;Crime&quot;, &quot;Documentary&quot;, &quot;Drama&quot;, &quot;Fantasy&quot;, &quot;Film-Noir&quot;, &quot;Horror&quot;,
+    &quot;Musical&quot;, &quot;Mystery&quot;, &quot;Romance&quot;, &quot;Sci-Fi&quot;, &quot;Thriller&quot;, &quot;War&quot;, &quot;Western&quot;]
+
+movies_cols = [&apos;movie_id&apos;, &apos;title&apos;, &apos;release_date&apos;, &apos;video_release_date&apos;, &apos;imdb_url&apos;] + genre_cols
+movies = pd.read_csv(&apos;/content/drive/My Drive/Colab Notebooks/ml-100k/u.item&apos;, sep=&apos;|&apos;, names=movies_cols, encoding=&apos;latin-1&apos;)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Splitting the train and testing data:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;def split_dataframe(df, holdout_fraction=0.1):
+
+  test = df.sample(frac=0.1, replace=False)
+  train = df[~df.index.isin(test.index)]
+
+  return train, test&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.pythonforbeginners.com/basics/list-comprehensions-in-python&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;List comprehension&lt;/a&gt; is used in a way to create the feature since it is much faster, and also it is something that most coders are using nowadays when memory is an issue.&lt;/p&gt;
+&lt;h3 id=&quot;data-batches&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#data-batches&quot; aria-label=&quot;data batches permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Data Batches&lt;/h3&gt;
+&lt;p&gt;As for the training input data, the data is propagated using batches into the softmax model. A &lt;strong&gt;batch&lt;/strong&gt; size is a number of samples processed before the model is updated at the end when the ground truth and the output is compared for another iteration. A batch of 4 features will be propagated into the NN model. This will be the movie_id, year, genre, and the label. Hence, each user will have these particular interactions being learned in the NN model. &lt;strong&gt;&lt;em&gt;tf.data.Dataset()&lt;/em&gt;&lt;/strong&gt; is used to initialize the batch operation. Batch size is crucial as a larger batch size (with memory constraints) will allow the NN to learn more effectively at the optimizer stage&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;def make_batch(ratings, batch_size):
+
+  # Function to fill null values to form sparse tensor
+  def pad(x, fill):
+    return pd.DataFrame.from_dict(x).fillna(fill).values
+
+  movie = []
+  year = []
+  genre = []
+  label = []
+
+  # Fill the input with 4 features
+  for movie_ids in ratings[&quot;movie_id&quot;].values:
+    movie.append(movie_ids)
+    genre.append([x for movie_id in movie_ids for x in genres_dict[movie_ids]])
+    year.append([yearsDict[movie_id] for movie_id in movie_ids])
+    label.append([int(movie_id) for movie_id in movie_ids])
+
+  # Creating the input tensors
+  features = {
+      &quot;movie_id&quot;: pad(movie, &quot;&quot;),
+      &quot;year&quot;: pad(year, &quot;&quot;),
+      &quot;genre&quot;: pad(genre, &quot;&quot;),
+      &quot;label&quot;: pad(label, -1)
+  }
+
+  # Creating a single batch for each iteraton
+  batch = (
+      tf.data.Dataset.from_tensor_slices(features)
+      .shuffle(1000)
+      .repeat()
+      .batch(batch_size)
+      # one_shot_iterator only in TF1.X
+      .make_one_shot_iterator()
+      .get_next())
+
+  return batch&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&quot;neural-network-training&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#neural-network-training&quot; aria-label=&quot;neural network training permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Neural Network Training&lt;/h3&gt;
+&lt;p&gt;Once the input data and batches are processed, the neural network training can finally begin. An embedding() function is created to capture the features of the training data. A softmax final layer neural network model is used to output the probability distribution consisting of K probabilities proportional to the exponentials of the input numbers.&lt;/p&gt;
+&lt;p&gt;Creating the loss function using Softmax:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;def softmax_loss(user_embeddings, movie_embeddings, labels):
+
+  # Verify that the embddings have compatible dimensions
+  user_emb_dim = user_embeddings.shape[1].value
+  movie_emb_dim = movie_embeddings.shape[1].value
+  logits = tf.matmul(user_embeddings, movie_embeddings, transpose_b=True)
+  loss = tf.reduce_mean(tf.nn.sparse_softmax_cross_entropy_with_logits(
+      logits=logits, labels=labels))
+  return loss&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Performing the model training:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# Create feature embedding columns
+def make_embedding_col(key, embedding_dim):
+  categorical_col = tf.feature_column.categorical_column_with_vocabulary_list(key=key, vocabulary_list=list(set(movies[key].values)), num_oov_buckets=0)
+  return tf.feature_column.embedding_column(categorical_column=categorical_col, dimension=embedding_dim, combiner=&apos;mean&apos;)
+
+# Initialise graph for training
+with tf.Graph().as_default():
+  softmax_model = build_softmax_model(
+                  rated_movies,  # Input
+                  embedding_cols=[ # Embeddings learned
+                  make_embedding_col(&quot;movie_id&quot;, 35),
+                  make_embedding_col(&quot;year&quot;, 2),],
+                  hidden_dims=[35]) # Dimension of the embedding
+
+# Perform training
+softmax_model.train(learning_rate=8., num_iterations=3000, optimizer=tf.train.AdagradOptimizer)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id=&quot;final-summary&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#final-summary&quot; aria-label=&quot;final summary permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Final Summary&lt;/h2&gt;
+&lt;p&gt;To put into perspective, oftentimes Matrix Factorisation is used in a large &lt;strong&gt;sparse data&lt;/strong&gt; environment where a &lt;strong&gt;simple dot product function&lt;/strong&gt; can be used to identify the closest item in relation to the user. This is particularly useful where time and memory is a constraint in the system. It is &lt;strong&gt;easier to scale&lt;/strong&gt;, cheaper to query, and much faster.&lt;/p&gt;
+&lt;p&gt;As for Neural Network, a more complex relationship can be formed to understand how the recommendations work inside the model. NN model captures more personalized preference since the inputs can be a vector of interactions between the user and say, country, age, watch time and etc. In some cases, NN models are more preferred since the predictions will be more &lt;strong&gt;accurate and more user-oriented/biased&lt;/strong&gt; and not purely based on the dot distance between users and items. This is particularly useful for other use cases such as marketing or ads-targeting, where a large number of user data is collected, and NN can understand the &lt;strong&gt;underlying preference&lt;/strong&gt; of each user. By also using NN, the query embedding usually needs to be computed at query time; as a result, this can be computationally expensive.&lt;/p&gt;
+&lt;h2 id=&quot;in-the-end&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#in-the-end&quot; aria-label=&quot;in the end permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;In the end&lt;/h2&gt;
+&lt;p&gt;If you managed to retain your attention to this point, please leave a comment if you have any advice for this series, or any experience trying to build a recommendation model using MF of NN.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Scania Trucks Cost Prediction using Machine Learning]]></title><description><![CDATA[In this guide, we would be building a simple classifier to predict if the trucks at Scania Trucks needs to be serviced or not..]]></description><link>https://lumen.netlify.com/posts/scania-truck-prediction</link><guid isPermaLink="false">https://lumen.netlify.com/posts/scania-truck-prediction</guid><pubDate>Sun, 12 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In this guide, we would be building a simple classifier to predict if the trucks at Scania Trucks needs to be serviced or not.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/7962/1*e50l4JNveqOuE2hX4Zg_JQ.jpeg&quot; alt=&quot;Photo by [Rhys Moult](https://unsplash.com/@rhysatwork?utm_source=unsplash&amp;#x26;utm_medium=referral&amp;#x26;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/truck?utm_source=unsplash&amp;#x26;utm_medium=referral&amp;#x26;utm_content=creditCopyText)&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;outline&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#outline&quot; aria-label=&quot;outline permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Outline&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Pre-processing of datasets for training and validation&lt;/li&gt;
+&lt;li&gt;Understand the steps to build a classifier&lt;/li&gt;
+&lt;li&gt;Comparing the accuracy of the classifiers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;objective&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#objective&quot; aria-label=&quot;objective permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Objective&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Minimize the servicing cost by correctly predicting of the trucks needs to be serviced or will cause a breakdown in the future&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;data-processing&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#data-processing&quot; aria-label=&quot;data processing permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Data Processing&lt;/h2&gt;
+&lt;p&gt;Datasets: &lt;a href=&quot;https://archive.ics.uci.edu/ml/datasets/APS+Failure+at+Scania+Trucks&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The training set contains 60000 examples in total in which 59000 belongs to the negative class and the remaining 1000 belongs to be positive class. The test set contains 16000 examples. There are a total of 117 attributes or features that will be used in the classifiers. These attributes are anonymous for obvious reason.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Github: &lt;a href=&quot;https://github.com/Prem95/DataSciencePortfolio/blob/master/APS%20Failure%20Prediction.ipynb&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Link&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Once the data is loaded, we can perform some simple EDA to explore the data further. What we did was:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Convert all ‘neg’ and ‘pos’ values to 0 and 1 respectively&lt;/li&gt;
+&lt;li&gt;Assign the class labels with the newly created list of zeros and ones&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Once the data is processed, we get to see that the ‘negative’ classes has a total of 59000 value as compared to ‘positive’ classes at 1000. Hence, our training datasets are highly imbalanced. To solve this, some sampling is required.&lt;/p&gt;
+&lt;h2 id=&quot;imputations&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#imputations&quot; aria-label=&quot;imputations permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Imputations&lt;/h2&gt;
+&lt;p&gt;In real world data, missing values are inevitable. This missing values actually carry some important information if its not included in the overall distribution during prediction or training. To solve this, generally we can perform mean, median or most frequent imputations. To get a visual idea of how many null values are there, using the library msno, we can plot the distribution. By a rough estimation, we would want to omit the columns where 0.7% (42000 values) of the data are null values.&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://cdn-images-1.medium.com/max/2092/1*vl_9ZmT2xR1F7zVEvoYqdg.png&quot; alt=&quot;imbalanced-data&quot;&gt;
+  &lt;/p&gt;&lt;div style=&quot;width: 200px; text-align: center;&quot;&gt;Before Imputation&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Once the omit is done, it is time to fill in the NaN values that are left in the columns. To do this, I went with using mean imputation to fill in the NaN values. This will attenuate any correlation involving the variables that are imputed. There is guaranteed to be no relationship between the imputed variable and any other measured variables.&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://cdn-images-1.medium.com/max/2104/1*fDrWgH_Cu9JEZJxHGbx3xA.png&quot; alt=&quot;balanced-data&quot;&gt;
+  &lt;/p&gt;&lt;div style=&quot;width: 200px; text-align: center;&quot;&gt;After Imputation&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2 id=&quot;handling-imbalanced-data&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#handling-imbalanced-data&quot; aria-label=&quot;handling imbalanced data permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Handling imbalanced data&lt;/h2&gt;
+&lt;p&gt;Imbalanced data is one of the most common problem in machine learning. There are several ways on how to access this problem. The most common way to do perform oversampling and undersampling the minority and majority classes. Take a look at the distribution of the NEG vs POS classes in the class column below (a simple &lt;em&gt;value_counts()&lt;/em&gt; would be enough):&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*kWTyLyUAQ6OdVsRPkJ0ArQ.png&quot; alt=&quot;Distribution of classes&quot;&gt;
+  &lt;/p&gt;&lt;div style=&quot;width: 200px; text-align: center;&quot;&gt;Distribution of classes&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;We do see that the overall distribution is very imbalanced. Hence, to solve this we would have to undersample the NEGATIVE classes and oversample the POSITIVE class using SMOTE technique.&lt;/p&gt;
+&lt;h2 id=&quot;synthetic-minority-over-sampling-technique-smote&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#synthetic-minority-over-sampling-technique-smote&quot; aria-label=&quot;synthetic minority over sampling technique smote permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Synthetic Minority Over-sampling Technique (SMOTE)&lt;/h2&gt;
+&lt;p&gt;SMOTE is one of the methods used to oversample the minority classes. Lets dive a bit deeper into the function of SMOTE. SMOTE is part of the imblearn library.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;imblearn.over_sampling.SMOTE(*sampling_strategy=&apos;auto&apos;*, *random_state=None*, *k_neighbors=5)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;SMOTE works by creating synthetic variables around the minority classes by finding the minimum Euclidean distance between the neighbours bounded by the &lt;em&gt;k&lt;/em&gt; value. There are basically 2 hyperparameters that are the K and Ratio, that can be changed to determine the overall function of the SMOTE analysis.&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*S4-sTzCAZw_uBHdf85md9A.png&quot; alt=&quot;Distribution of classes&quot;&gt;
+  &lt;/p&gt;&lt;div style=&quot;width: 900px; text-align: center;&quot;&gt;How the synthetic samples are created&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*8DokckllmUw7oqmpmCgDiA.png&quot; alt=&quot;k-means-clustoring&quot;&gt;
+  &lt;/p&gt;&lt;div style=&quot;text-align: center;&quot;&gt;How k determines the spread of the variables&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;k refers to the vector that will be used to create the synthetic variables. At k = 1 only the closest neighbor of the same class is considered. Not necessarily that as the k increases, more accurate synthetic variables will be created. Ratio refers to ratio of the new data points to be created around the boundary. In most cases, the k and ratio values are set to 5 and 0.1 respectively as defaults.&lt;/p&gt;
+&lt;h2 id=&quot;data-standardisation&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#data-standardisation&quot; aria-label=&quot;data standardisation permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Data Standardisation&lt;/h2&gt;
+&lt;p&gt;Why is data standardisation important? To put it in simple terms, we would like to have all values across the entries to have similar consistency. That is to have the same format and content across the entries. We do not need the ‘amplitude’ of the features, but only the underlying &lt;strong&gt;distribution shape.&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The most commonly standardisation technique used is to de-mean the data and refactoring zero variance:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*5oc5J2ZanfyG4wGbNHejjQ.png&quot; alt=&quot;Normalisation of X&quot;&gt;
+  &lt;/p&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Normalisation of X&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;MinMax scaling to spread data across 0 and 1&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*E9roKxhL_lw8jkvINrHZvA.png&quot; alt=&quot;Confusion Matrix&quot;&gt;
+  &lt;/p&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Confusion Matrix&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;There are several advantages of performing data normalisation across the data entries. These has been listed below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Data is less sensitive to the scale of features&lt;/strong&gt;: This is true in a sense where you would have 2 different variables of different scales ie. W1 and W2 where W1 represents an object and W2 represents the area of the object. During a linear regression, the scale of W2 is larger w.r.t W1, and there could be some possibilities where only by tuning W2, the prediction is accurate.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Consistency for comparing results across models&lt;/strong&gt;: This is particularly important where research are actively being done on different state-of-the-art models so scaling will be important&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Speed of convergence&lt;/strong&gt;: Convergence speed (Gradient Descent) typically is computed by the eigenvalues (X^T*X). In a typical gradient descent contour, the speed of convergence depends on the ‘Hessian condition number’, that is the ratio of the highest derivative and lowest derivative. If the number if large, the speed will be slow. Having an unscaled features (X and 100X for example), will ultimately increase the condition number.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;random-forest-prediction-model&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#random-forest-prediction-model&quot; aria-label=&quot;random forest prediction model permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;strong&gt;Random Forest Prediction Model&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;To understand this, lets look at the basics the binary tree.&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://cdn-images-1.medium.com/max/2028/1*WcsdF8W8tn52AnTuZmRl3w.png&quot; alt=&quot;Simple binary tree&quot;&gt;
+  &lt;/p&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Simple binary tree&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;In a tree, there is the root node (Height) and multiple leaf nodes (Weight, etc). The leaf nodes of a tree contain an output variable (y) which will be used to make the prediction. In the decision tree, the questions are answered accordingly, in which transversal happens (node splitting) until the &lt;a href=&quot;https://en.wikipedia.org/wiki/Decision_tree_learning&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Gini Impurity&lt;/a&gt; is reduced. In simple terms, the tree tries to form (with the help of GI) high number of sample where it can be split by classes.&lt;/p&gt;
+&lt;p&gt;Why random forest or multiple forest models? A random forest is made up of multiple decision trees where the training data and features are sampled randomly across the trees and nodes respectively.&lt;/p&gt;
+&lt;p&gt;The random forest will combines large number of single decision trees and will perform the training on dataset that are slightly different of observations. The final prediction is computed by averaging the predictions of each single tree. However, &lt;a href=&quot;https://towardsdatascience.com/explaining-feature-importance-by-example-of-a-random-forest-d9166011959e&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;feature importance&lt;/a&gt; is considered important during node splitting as it will affect the Gini Impurity. Other hyper-parameters can also be tuned by performing cross validation (Grid Search) to find the optimum hyper-params.&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://cdn-images-1.medium.com/max/2780/1*b_5Ip7_hLRviAUS-Sa_orQ.png&quot; alt=&quot;A single tree in a random forest model&quot;&gt;
+  &lt;/p&gt;&lt;div style=&quot;text-align: center;&quot;&gt;A single tree in a random forest model&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;In our model, a random forest classifier is used:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;clf = ens.RandomForestClassifier(n_estimators = 100, max_depth = 100, n_jobs = -1)
+clf.fit(trainStandard, y_train)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;n_estimators&lt;/em&gt; and &lt;em&gt;max_depth&lt;/em&gt; are considered a hyper-parameters and should be cross validated to find the optimum values.&lt;/p&gt;
+&lt;h2 id=&quot;confusion-matrix&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#confusion-matrix&quot; aria-label=&quot;confusion matrix permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Confusion Matrix&lt;/h2&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*E9roKxhL_lw8jkvINrHZvA.png&quot; alt=&quot;Scaling using Min and Max values&quot;&gt;
+  &lt;/p&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Scaling using Min and Max values&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://machinelearningmastery.com/confusion-matrix-machine-learning/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Confusion matrix&lt;/a&gt; is typically used to describe the performance of a classification model. The prediction matrix is split into predicted class and actual class where the items are &lt;strong&gt;True Positive&lt;/strong&gt;, &lt;strong&gt;True Negative&lt;/strong&gt;, &lt;strong&gt;False Negative&lt;/strong&gt; and &lt;strong&gt;True Negative&lt;/strong&gt;.&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*xYoQLgv77Qk5BnIcdv1JoA.png&quot; alt=&quot;Confusion Matrix&quot;&gt;
+  &lt;/p&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Confusion Matrix&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Once the model is trained using Random Forest Prediction, the model can be validated using the unseen test datasets and a confusion matrix can be used to predict the accuracy and the cost.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;y_pred = clf.predict(testStandard)
+conMat = sklearn.confusion_matrix(y_test, y_pred)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;We can then lastly complete the cost prediction by calculating it according to the business goal above. Our final cost was found to be $12570.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;conMat[1][1]*10 + conMat[1][0]*500&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id=&quot;what-is-next&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#what-is-next&quot; aria-label=&quot;what is next permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What is next?&lt;/h2&gt;
+&lt;p&gt;What other methods can we try to further optimise the cost (reduce cost function)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dimensionality reduction using Principal Component Analysis (PCA)&lt;/li&gt;
+&lt;li&gt;Dimensionality reduction using Singular Value Decomposition (SVD)&lt;/li&gt;
+&lt;li&gt;Over sampling using &lt;a href=&quot;https://towardsdatascience.com/adasyn-adaptive-synthetic-sampling-method-for-imbalanced-data-602a3673ba16&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Adaptive Synthetic&lt;/a&gt; (ADASYN)&lt;/li&gt;
+&lt;li&gt;Perform Cross Validation to find optimal parameters for Random Forest Prediction&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Originally published by &lt;a href=&quot;https://www.premstroke.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Prem Kumar&lt;/a&gt; on &lt;a href=&quot;https://medium.com/analytics-vidhya/scania-trucks-cost-prediction-fdcf8dc22b5b&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Medium&lt;/a&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
